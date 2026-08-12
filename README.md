@@ -39,3 +39,7 @@ principal em Cloud / DevOps / SRE.
 - [ ] Kubernetes Application
 - [ ] SRE Monitoring
 - [ ] Final Cloud Platform
+
+## Progresso
+
+Semana 0 — Configuração do ambiente.
