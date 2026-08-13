@@ -43,3 +43,7 @@ principal em Cloud / DevOps / SRE.
 ## Progresso
 
 Semana 0 — Configuração do ambiente.
+
+Estou aprendendo Git e GitHub
+
+Primeiro ciclo concluído.
